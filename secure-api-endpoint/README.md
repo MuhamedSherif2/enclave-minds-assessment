@@ -25,6 +25,3 @@ The project is structured using **MVC pattern**:
 ---
 
 ## Project Structure
-
-**put this in .env file**
-<!-- *MONGOO_DB=mongodb+srv://Mag:mohammed26122003@mohammed.kxps2xh.mongodb.net/secureApiEndpoint <= mongoo-db url* -->
